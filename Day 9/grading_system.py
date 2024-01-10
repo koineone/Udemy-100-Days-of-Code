@@ -5,6 +5,7 @@ student_scores = {
   "Draco": 74,
   "Neville": 62,
 }
+
 # 🚨 Don't change the code above 👆
 
 #TODO-1: Create an empty dictionary called student_grades.
@@ -22,6 +23,5 @@ for student, score in ss_list:
   else:
     student_grades[student] = "Fail"
     
-
 # 🚨 Don't change the code below 👇
 print(student_grades)
