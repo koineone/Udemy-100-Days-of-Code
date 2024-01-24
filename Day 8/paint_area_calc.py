@@ -5,7 +5,7 @@ def paint_calc(height,width,cover):
 
     round_cans = math.ceil(cans)
 
-    print(f'You will need {round_cans} cans to paint your wall')
+    print(f"You'll need {round_cans} cans to paint your wall.")
 
 
 test_h = input('Enter height  ')
