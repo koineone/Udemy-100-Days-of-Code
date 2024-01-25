@@ -7,7 +7,6 @@ def paint_calc(height,width,cover):
 
     print(f"You'll need {round_cans} cans to paint your wall.")
 
-
 test_h = input('Enter height  ')
 test_w = input('Enter width  ')
 coverage = 5
